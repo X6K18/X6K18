@@ -28,11 +28,5 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=X6K18&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-[![](https://komarev.com/ghpvc/?username=X6K18&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
