@@ -1,3 +1,13 @@
+<div align="center">
+
+# 👨‍💻 Phan Trọng Nguyên
+
+### Data Analyst • Data Scientist • Big Data Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning;Deep+Learning;Realtime+Analytics;Big+Data+Engineering;Data+Visualization" />
+
+</div>
+
 # 💫 About Me
 Hi, I'm a third-year Data Science student at the University of Industry and Trade.<br>I am passionate about Data Analysis, Machine Learning and Big Data.<br><br>I enjoy working on projects related to:<br><br>* 📊 Data Analysis & Visualization<br>* 🤖 Machine Learning & Deep Learning<br>* 🗄️ Big Data & Data Engineering<br>* 📈 Business Intelligence & Predictive Analytics<br>* 🐍 Python, SQL, Power BI, and Docker<br><br>I am constantly learning new technologies and building real-world projects to improve my skills in data-driven problem solving.<br>My goal is to become a Data Scientist / Data Analyst who can transform data into meaningful insights and impactful solutions.<br><br>🚀 Always curious, always learning.
 
@@ -19,9 +29,10 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=X6K18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://komarev.com/ghpvc/?username=X6K18&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
