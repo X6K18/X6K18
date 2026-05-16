@@ -194,4 +194,11 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/X6K18/X6K18/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 
