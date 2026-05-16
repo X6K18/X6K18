@@ -85,8 +85,8 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 </td>
 
 <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=keras" width="45" height="45" />
-  <br>Keras
+  <img src="images/huggingface.svg" width="45" height="45" />
+  <br>Hugging Face
 </td>
 
 <td align="center" width="90">
@@ -127,17 +127,17 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 
 <tr>
 <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" />
+  <img src="images/pandas.svg" width="45" height="45" />
   <br>Pandas
 </td>
 
 <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=numpy" width="45" height="45" />
+  <img src="images/numpy.svg" width="45" height="45" />
   <br>NumPy
 </td>
 
 <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=matplotlib" width="45" height="45" />
+  <img src="images/matplotlib.svg" width="45" height="45" />
   <br>Matplotlib
 </td>
 
@@ -162,19 +162,20 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 </td>
 
 <td align="center" width="90">
-  <img src="https://cdn.worldvectorlogo.com/logos/mlflow.svg" width="45" height="45" />
+  <img src="images/mlflow.svg" width="45" height="45" />
   <br>MLflow
 </td>
 
 <td align="center" width="90">
-  <img src="https://cdn.worldvectorlogo.com/logos/plotly-1.svg" width="45" height="45" />
+  <img src="images/plotly.svg" width="45" height="45" />
   <br>Plotly
 </td>
 
 <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=canva" width="45" height="45" />
-  <br>Canva
+  <img src="images/jupyter.svg" width="45" height="45" />
+  <br>Jupyter
 </td>
+
 </tr>
 
 </table>
