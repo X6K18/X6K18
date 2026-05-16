@@ -197,7 +197,7 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/X6K18/X6K18/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/X6K18/X6K18/output/ocean.gif" alt="snake animation" />
 </p>
 
 
