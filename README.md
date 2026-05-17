@@ -32,6 +32,20 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
   <br>R
 </td>
 
+<link 
+  rel="stylesheet" 
+  href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+/>
+
+<td align="center" width="90">
+  <i class="devicon-azuresqldatabase-plain colored" 
+     style="font-size:45px;">
+  </i>
+  <br>
+  SQL
+</td>
+
+
 <td align="center" width="90">
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="45" height="45" />
   <br>C#
@@ -66,12 +80,6 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
   <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" />
   <br>Anaconda
 </td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" />
-  <br>Linux
-</td>
-</tr>
 
 <tr>
 <td align="center" width="90">
