@@ -39,8 +39,8 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 
 
 <td align="center" width="90">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="45" height="45" />
-  <br>C#
+  <img src="images/excel.svg" width="45" height="45" />
+  <br>Excel
 </td>
 
 <td align="center" width="90">
@@ -177,6 +177,7 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 </td>
 
 </tr>
+
 
 </table>
 
