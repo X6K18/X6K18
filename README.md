@@ -9,7 +9,7 @@
 </div>
 
 # 💫 About Me
-Hi, I'm a third-year Data Science student at the University of Industry and Trade.<br>I am passionate about Data Analysis, Machine Learning and Big Data.<br><br>I enjoy working on projects related to:<br><br>* 📊 Data Analysis & Visualization<br>* 🤖 Machine Learning & Deep Learning<br>* 🗄️ Big Data & Data Engineering<br>* 📈 Business Intelligence & Predictive Analytics<br>* 🐍 Python, SQL, Power BI, and Docker<br><br>I am constantly learning new technologies and building real-world projects to improve my skills in data-driven problem solving.<br>My goal is to become a Data Scientist / Data Analyst who can transform data into meaningful insights and impactful solutions.<br><br>🚀 Always curious, always learning.
+Hi, I'm a third-year Data Science student at the University of Industry and Trade.<br>I am passionate about Data Analysis, Machine Learning and Big Data.<br><br>I enjoy working on projects related to:<br><br>* 📊 Data Analysis & Visualization<br>* 🤖 Machine Learning & Deep Learning<br>* 🗄️ Big Data & Data Engineering<br>* 📈 Business Intelligence & Predictive Analytics<br>* 🐍 Python, SQL, Power BI, and Docker<br><br>I am constantly learning new technologies and building real-world projects to improve my skills in data-driven problem solving.<br>My goal is to become a Data Scientist who can transform data into meaningful insights and impactful solutions.<br><br>🚀 Always curious, always learning.
 
 
 ## 🌐 Socials
